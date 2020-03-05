@@ -1,0 +1,27 @@
+.text-special {
+    color: #f8dbdb!important;
+}
+
+.bg-type1 {
+    background-color: #405f5d!important;
+}
+
+.bg-type2 {
+    background-color: #8bb9a6!important;
+}
+
+.nav-font {
+    font-size: x-large!important;
+}
+
+.mainContainer_Padding {
+    padding-top: 8rem!important;
+}
+
+.mainContainer_minHeight {
+    min-height: calc(100vh - 180px);
+}
+
+.bg_transparent {
+    background-color: transparent!important;
+}
