@@ -19,9 +19,33 @@
 }
 
 .mainContainer_minHeight {
-    min-height: calc(100vh - 180px);
+    min-height: calc(100vh - 165px);
 }
 
 .bg_transparent {
     background-color: transparent!important;
+}
+
+.portfolio-hover1 {
+    background-image: url("../img/hover_img/hover_1.png") !important;
+}
+
+.portfolio-hover2 {
+    background-image: url("../img/hover_img/hover_2.png") !important;
+}
+
+.portfolio-hover3 {
+    background-image: url("../img/hover_img/hover_3.png") !important;
+}
+
+.portfolio-hover4 {
+    background-image: url("../img/hover_img/hover_4.png") !important;
+}
+
+.portfolio-hover5 {
+    background-image: url("../img/hover_img/hover_5.png") !important;
+}
+
+.portfolio-hover6 {
+    background-image: url("../img/hover_img/hover_6.png") !important;
 }
