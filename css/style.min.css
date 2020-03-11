@@ -28,36 +28,36 @@
 
 .portfolio-hover1 {
     background-image: url("../img/hover_img/hover_1.png") !important;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .portfolio-hover2 {
     background-image: url("../img/hover_img/hover_2.png") !important;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .portfolio-hover3 {
     background-image: url("../img/hover_img/hover_3.png") !important;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .portfolio-hover4 {
     background-image: url("../img/hover_img/hover_4.png") !important;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .portfolio-hover5 {
     background-image: url("../img/hover_img/hover_5.png") !important;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .portfolio-hover6 {
     background-image: url("../img/hover_img/hover_6.png") !important;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
